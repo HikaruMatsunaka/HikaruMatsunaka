@@ -1,6 +1,6 @@
 ### Hi👋
 
-- 👩‍💻I'm majoring in industrial design at Kyushu University.　
+- 👩‍💻I major in industrial design at Kyushu University.　
 
 <!---
 HikaruMatsunaka/HikaruMatsunaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
